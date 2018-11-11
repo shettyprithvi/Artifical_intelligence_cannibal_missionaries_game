@@ -1,6 +1,6 @@
 # Artifical_intelligence_cannibal_missionaries_game
 
-## Solution : For executing, run main.py. The solution of the following problem is solved usng Depth First Search algorithm.
+## Solution : For executing, run main.py. The solution of the following problem is solved using Depth First Search algorithm.
 
 
 ## Problem: 
