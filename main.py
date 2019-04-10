@@ -2,7 +2,7 @@
 
 
 #Prithvi Shetty
-#Written in Python 3
+#Written in Python 3.6
 
 
 class Problem:
